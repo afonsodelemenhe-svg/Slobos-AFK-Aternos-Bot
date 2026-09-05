@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mincraft.aternos.me",
-    "port": 19974,
+    "ip": "sobrevivnciagame.aternos.me",
+    "port": 60498,
     "version": "",
     "try-creative": false
   },
